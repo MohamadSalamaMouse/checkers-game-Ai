@@ -1,0 +1,1 @@
+bool isRedSquare(int x, int y) => x % 2 == (y % 2 == 0 ? 0 : 1);
