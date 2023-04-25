@@ -15,6 +15,19 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Screenshots
+
+welcome screen            |  board
+:-------------------------:|:-------------------------:
+<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/welcome_screen.jpeg" width="500" />   |      <img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/board.jpeg" width="500" />|<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/board.jpeg" width="500" />
+
+leavel            |  scoreboard
+:-------------------------:|:-------------------------:
+<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/leavel.jpeg" width="500" />  |    <img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/score.jpeg" width="500" />
+
+
+## Run Locally
+
 ## Team Members
 
 #### Project done under supervision of  Prof. [@Sara El-Metwally](https://github.com/SaraEl-Metwally) by:
