@@ -14,7 +14,27 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
+## Environment Properties (ODESDA):
+  <table>  
+        <thead>
+           <th> Task Environment </th>
+           <th> Observable </th>
+           <th> Deterministic </th>
+<th> Episodic </th>
+<th> Static </th>
+<th> Discrete </th>
+<th> Agent </th>
+        </thead>
+        <tr>
+            <td> Checkers </td>
+            <td> Fully </td>
+           <td> Strategic </td>
+  <td> Episodic </td>
+  <td> Static</td>
+  <td> Discrete </td>
+<td> Multi </td>
+             </tr> 
+</table>
 ## Screenshots
 
 welcome screen            |  board
