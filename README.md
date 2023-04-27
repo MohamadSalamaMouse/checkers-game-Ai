@@ -1,5 +1,5 @@
 # checkers_game
-[<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/Screenshot%202023-04-27%20162309.jpeg" width="50%">](https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view)
+[<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/Screenshot%202023-04-27%20162309.jpeg" width="100%">](https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view)
 
 
 ## Environment Properties (ODESDA):
