@@ -1,5 +1,5 @@
 # checkers_game
-<video src='https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view' width=180/>
+
 
 ## Environment Properties (ODESDA):
   <table>  
