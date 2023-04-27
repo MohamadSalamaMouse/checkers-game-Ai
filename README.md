@@ -1,6 +1,8 @@
 # checkers_game
-https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view
-### [To Watch the full video]()
+<video width="400" controls>
+  <source src="https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
 
 ## Environment Properties (ODESDA):
   <table>  
