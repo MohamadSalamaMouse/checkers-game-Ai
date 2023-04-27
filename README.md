@@ -1,8 +1,5 @@
 # checkers_game
-<video width="400" controls>
-  <source src="https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
+<video src='https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view' width=180/>
 
 ## Environment Properties (ODESDA):
   <table>  
