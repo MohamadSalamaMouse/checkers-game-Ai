@@ -6,7 +6,7 @@ The goal is to capture all the opponent’s pieces by jumping over them.
 An advantage is getting your pieces to “KING” status. 
 Checkers is known as a more accessible alternative to chess and can be played on the same board.
 # Explanation
-(https://youtu.be/NSDoITAYb5U)
+https://youtu.be/NSDoITAYb5U
 
 
 [<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/Screenshot%202023-04-27%20162309.jpeg" width="100%">](https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view)
