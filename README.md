@@ -1,6 +1,14 @@
 # checkers_game
-# information about games
-Checkers is a traditional board game played between two people. The board is made up of 64 dark and light squares, with 24 black and white game pieces for gameplay. The goal is to capture all the opponent’s pieces by jumping over them. An advantage is getting your pieces to “KING” status. Checkers is known as a more accessible alternative to chess and can be played on the same board.
+# Introduction 
+Checkers is a traditional board game played between two people. 
+The board is made up of 64 dark and light squares, with 24 black and white game pieces for gameplay. 
+The goal is to capture all the opponent’s pieces by jumping over them.
+An advantage is getting your pieces to “KING” status. 
+Checkers is known as a more accessible alternative to chess and can be played on the same board.
+# Explanation
+(https://youtu.be/NSDoITAYb5U)
+
+
 [<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/Screenshot%202023-04-27%20162309.jpeg" width="100%">](https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view)
 
 
@@ -43,4 +51,4 @@ leavel            |  scoreboard
 #### Project done under supervision of  Prof. [@Sara El-Metwally](https://github.com/SaraEl-Metwally) by:
 - [@Mohamad Salama Mousa ](https://github.com/MohamadSalamaMouse) | section 8
 - [@Mohamed Amr](https://github.com/mohamedamr987)     | Section 9
-- [@Mohamed Kamel ](https://github.com/mokammel0000) | Section 9
+
