@@ -6,11 +6,10 @@ The goal is to capture all the opponent’s pieces by jumping over them.
 An advantage is getting your pieces to “KING” status. 
 Checkers is known as a more accessible alternative to chess and can be played on the same board.
 # Explanation
-<html>
-<iframe width="853" height="480" src="https://www.youtube.com/embed/NSDoITAYb5U" title="Checkers Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</htmL>
+[<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/Screenshot%202023-04-27%20162309.jpeg" width="100%">](https://youtu.be/NSDoITAYb5U)
+
 # More information
-[<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/Screenshot%202023-04-27%20162309.jpeg" width="100%">](https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view)
+[<img src="https://github.com/MohamadSalamaMouse/checkers-game-Ai/blob/main/assets/Screenshot%2023-05-05%150631.jpeg" width="100%">](https://drive.google.com/file/d/17MKXIbuacCI3z7hRaT_u--OL8tzVfkmE/view)
 
 
 ## Environment Properties (ODESDA):
