@@ -1,4 +1,5 @@
-# checkers_game with python only implementation of algoirthm alpha-beta and project flutter with leavel >leavel 1->two humans+leavel two ai +human
+# checkers_game 
+## with python only implementation of algoirthm alpha-beta and project flutter with leavel >leavel 1->two humans+leavel two ai +human
 # Introduction 
 Checkers is a traditional board game played between two people. 
 The board is made up of 64 dark and light squares, with 24 black and white game pieces for gameplay. 
